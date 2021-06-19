@@ -120,9 +120,11 @@ ctx.add_basemap(ax,
 同理。<br>
 ![Image](https://github.com/Constance-Chen/Constance-Chen.username.GitHub.io/raw/main/pic/图2.交通流量分配图.png)
 ## Ref.
-1. 叠加在线地图
+1. 叠加在线地图<br>
 https://github.com/CNFeffery/DataScienceStudyNotes
-2. UE算法交通分配traffic assignment
+2. UE算法交通分配traffic assignment<br>
+```
 Pramesh Kumar. (2019, October 10). prameshk/Traffic-Assignment: Static Traffic Assignment using User Equilibrium and Stochastic User Equilibrium- Python Code (Version 2.0). Zenodo. http://doi.org/10.5281/zenodo.3479554
+```
 
 

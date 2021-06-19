@@ -116,7 +116,8 @@ ctx.add_basemap(ax,
                 source='https://a.tile.thunderforest.com/mobile-atlas/{z}/{x}/{y}.png?apikey=41f4f936f1d148f69cbd100812875c88',
                 zoom=15)
 ```
-交通流量分配图同理。
+交通流量分配图同理。<br>
+![Image](https://github.com/Constance-Chen/Constance-Chen.username.GitHub.io/raw/main/pic/图2.交通流量分配图.png)
 ## Ref.
 1. 叠加在线地图
 https://github.com/CNFeffery/DataScienceStudyNotes
